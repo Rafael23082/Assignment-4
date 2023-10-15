@@ -6,6 +6,10 @@
   div.name{
     margin-left:50px;
   }
+  div.sosmeds{
+    font-size:30px;
+    height:50px;
+  }
 }
 @media only screen and (min-width:641px){
   img{
@@ -15,6 +19,10 @@
   div.name{
     margin-left:50px;
   }
+  div.sosmeds{
+    font-size:45px;
+    height:60px;
+  }
 }
 @media only screen and (min-width:1008px){
   img{
@@ -23,5 +31,9 @@
   }
   div.name{
     margin-left:50px;
+  }
+  div.sosmeds{
+    font-size:50px;
+    height:70px;
   }
 }
